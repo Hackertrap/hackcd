@@ -1,2 +1,0 @@
-# hackcd
-hackcd
